@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Piedra&display=swap");
+nav {
+  height: 100%; }
+  nav a {
+    color: blanchedalmond !important; }
+  nav a:hover {
+    color: coral !important; }
+  nav img {
+    height: 40px;
+    width: 150px; }
+
+.slider {
+  margin-top: 20px; }
+  .slider h2 {
+    font-family: 'Piedra', cursive;
+    color: #3d362b;
+    text-align: center; }
+  .slider p {
+    font-size: 44px;
+    font-family: 'Piedra', cursive;
+    color: brown;
+    margin-top: 10px; }
+  .slider .btnPrevNext {
+    text-align: center;
+    margin-top: 10px; }
